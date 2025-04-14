@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/banner-facepe.png" alt="Banner do Projeto" width="75%">
+  <img src="imagens/banner-facepe.png" alt="Banner do Projeto" width="100%">
 </p>
 
 # 🌍 E-commerce para Agenciamento Turístico
