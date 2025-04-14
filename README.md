@@ -2,7 +2,7 @@
   <img src="imagens/banner-facepe.png" alt="Banner do Projeto" width="100%">
 </p>
 
-# 🌍 Projeto FACEPE – E-commerce para Agenciamento Turístico
+# 🌍 E-commerce para Agenciamento Turístico
 
 Este repositório é uma **vitrine pública** do projeto desenvolvido com apoio da **FACEPE** (Fundação de Amparo à Ciência e Tecnologia de Pernambuco), onde foi proposto o desenvolvimento de um **comércio eletrônico aplicado ao setor de turismo.**
 
